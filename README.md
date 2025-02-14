@@ -1,5 +1,5 @@
 
-<h3>I'm <strong>Isadora Vasques da Luz</strong>, I'm Brazilian.I'm a Front-end. </h3>
+<h3>I'm <strong>Isadora Vasques da Luz</strong>, I'm Brazilian.</h3>
 <h3 align="left">Languages and Tools:</h3> <p align="left"> <img target="blank" src= "https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/css3/css3-original.svg"  height="30" width="40"> <img target="blank" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/html5/html5-original.svg"height="30" width="40">  <img target="blank" src = "https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/javascript/javascript-original.svg" height="30" width="40"> <img target="blank" src= "https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" height="30" width="40">
 </p>
 
