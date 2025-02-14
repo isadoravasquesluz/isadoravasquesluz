@@ -5,7 +5,7 @@
 
 
 
-![Isa GitHub stats](https://github-readme-stats.vercel.app/api?username=isadoravasquesluz&theme=transparent_icons=true)
+![Isa GitHub stats](https://github-readme-stats.vercel.app/api?username=isadoravasquesluz&show_icons=true&theme=dracula)
 
 
 <h3 align="left">Connect with me:</h3>
