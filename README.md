@@ -5,7 +5,7 @@
 
 ?theme=buefy parameter like so:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+![Isa GitHub stats](https://github-readme-stats.vercel.app/api?username=isadoravasquesluz&theme=buefyicons=true)
 
 
 <h3 align="left">Connect with me:</h3>
